@@ -18,7 +18,7 @@ def calcula_area(base, altura, tipo):
     else:
         return 
         
-   valores = [2,3,5,7,9,11,"batata", "tomate", True]
+valores = [2,3,5,7,9,11,"batata", "tomate", True]
 
 for v in valores:
     print(v)
